@@ -1,33 +1,27 @@
 #  Support Ticket System Assessment 
 
-##  **Live Demo Screenshots**
-
 ### **1. Complete Working Application**
 
 *✅ React UI + Stats Dashboard + New Ticket Form + Ticket List*
 
 ### **2. Backend Terminal - Django Server**
 ```
-[PASTE YOUR BACKEND TERMINAL SS HERE]
 Django version 6.0.2 → http://127.0.0.1:8000/
 ```
 
 ### **3. Frontend Terminal - Vite Dev Server** 
 ```
-[PASTE YOUR FRONTEND TERMINAL SS HERE]
 VITE v5.x.x → http://localhost:5173/
 ```
 
 ### **4. API Endpoints Test**
 ```
-[PASTE YOUR http://localhost:8000/api/tickets/ SS HERE]
 ✅ http://localhost:8000/api/tickets/ → []
 ✅ http://localhost:8000/api/tickets/stats/ → {"total_tickets":0}
 ```
 
 ### **5. Ticket Creation Flow**
 ```
-[PASTE YOUR TICKET CREATED SS HERE]
 ✅ Title + Description → AI Classify → Submit → List Update
 ```
 
@@ -99,5 +93,6 @@ PATCH  /api/tickets/{id}/            # Update ticket
 3. Filter/Search → Real-time Results
 4. Status Update → Live Dashboard Metrics
 ```
+
 
 
