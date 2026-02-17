@@ -53,14 +53,14 @@ npm run dev
 
 ##  **Features Implemented** *(All Assessment Requirements ✓)*
 
-| Feature | Status | Screenshot |
-|---------|--------|------------|
-| ✅ **5 API Endpoints** | `CRUD + classify + stats` | 
-| ✅ **AI Classification** | `Dummy LLM fallback` | 
-| ✅ **Real-time Stats** | `Django ORM Count` |  
-| ✅ **Ticket Filtering** | `Status + Category + Priority` |  
-| ✅ **Responsive UI** | `React 18 + Tailwind` |  
-| ✅ **DB Constraints** | `Choices + Validations` | 
+| Feature | Status | 
+|---------|--------|
+| ✅ **5 API Endpoints** | `CRUD + classify + stats`  
+| ✅ **AI Classification** | `Dummy LLM fallback`  
+| ✅ **Real-time Stats** | `Django ORM Count`  
+| ✅ **Ticket Filtering** | `Status + Category + Priority`   
+| ✅ **Responsive UI** | `React 18 + Tailwind`   
+| ✅ **DB Constraints** | `Choices + Validations`  
 
 ##  **Production Tech Stack**
 ```
@@ -99,4 +99,5 @@ PATCH  /api/tickets/{id}/            # Update ticket
 3. Filter/Search → Real-time Results
 4. Status Update → Live Dashboard Metrics
 ```
+
 
