@@ -1,4 +1,4 @@
-# Support Ticket System Assessment** 
+# Support Ticket System Assessment
 
 ##  **Live Demo Screenshots**
 
@@ -8,7 +8,7 @@
 
 ### **2. Backend Terminal - Django Server**
 ```
-[PASTE YOUR BACKEND TERMINAL SS HERE]
+[<img width="1444" height="711" alt="Image" src="https://github.com/user-attachments/assets/71904ebe-1f7f-4eb6-a920-487d0db67a7a" />]
 Django<img width="1444" height="711" alt="Screenshot (283)" src="https://github.com/user-attachments/assets/06d99911-68cd-4f91-aeb1-22a7a035169e" />
  version 6.0.2 → http://127.0.0.1:8000/
 ```
@@ -100,6 +100,7 @@ PATCH  /api/tickets/{id}/            # Update ticket
 3. Filter/Search → Real-time Results
 4. Status Update → Live Dashboard Metrics
 ```
+
 
 
 
