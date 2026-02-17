@@ -1,4 +1,4 @@
-# Support Ticket System Assessment
+#  Support Ticket System Assessment 
 
 ##  **Live Demo Screenshots**
 
@@ -8,9 +8,8 @@
 
 ### **2. Backend Terminal - Django Server**
 ```
-[<img width="1444" height="711" alt="Image" src="https://github.com/user-attachments/assets/71904ebe-1f7f-4eb6-a920-487d0db67a7a" />]
-Django<img width="1444" height="711" alt="Screenshot (283)" src="https://github.com/user-attachments/assets/06d99911-68cd-4f91-aeb1-22a7a035169e" />
- version 6.0.2 → http://127.0.0.1:8000/
+[PASTE YOUR BACKEND TERMINAL SS HERE]
+Django version 6.0.2 → http://127.0.0.1:8000/
 ```
 
 ### **3. Frontend Terminal - Vite Dev Server** 
@@ -32,7 +31,7 @@ VITE v5.x.x → http://localhost:5173/
 ✅ Title + Description → AI Classify → Submit → List Update
 ```
 
-## 🎯 **Quick Start Guide** *(2 Minutes Setup)*
+##  **Quick Start Guide** *(2 Minutes Setup)*
 
 ### **Terminal 1 - Backend (Django + SQLite)**
 ```powershell
@@ -52,18 +51,18 @@ npm run dev
 ```
 **→ http://localhost:5173**
 
-## 🚀 **Features Implemented** *(All Assessment Requirements ✓)*
+##  **Features Implemented** *(All Assessment Requirements ✓)*
 
 | Feature | Status | Screenshot |
 |---------|--------|------------|
-| ✅ **5 API Endpoints** | `CRUD + classify + stats` | [Paste API SS] |
-| ✅ **AI Classification** | `Dummy LLM fallback` | [Paste Ticket SS] |
-| ✅ **Real-time Stats** | `Django ORM Count` |  |
-| ✅ **Ticket Filtering** | `Status + Category + Priority` |  |
-| ✅ **Responsive UI** | `React 18 + Tailwind` |  |
-| ✅ **DB Constraints** | `Choices + Validations` | [Paste API SS] |
+| ✅ **5 API Endpoints** | `CRUD + classify + stats` | 
+| ✅ **AI Classification** | `Dummy LLM fallback` | 
+| ✅ **Real-time Stats** | `Django ORM Count` |  
+| ✅ **Ticket Filtering** | `Status + Category + Priority` |  
+| ✅ **Responsive UI** | `React 18 + Tailwind` |  
+| ✅ **DB Constraints** | `Choices + Validations` | 
 
-## 🛠 **Production Tech Stack**
+##  **Production Tech Stack**
 ```
 🔹 Backend: Django 6.0.2 + DRF 3.16 + SQLite
 🔹 Frontend: React 18 + Vite 5.4 + TailwindCSS
@@ -72,7 +71,7 @@ npm run dev
 🔹 AI: Graceful LLM Fallback
 ```
 
-## 📊 **API Documentation**
+##  **API Documentation**
 
 ```bash
 GET    /api/tickets/                 # List all tickets
@@ -93,14 +92,11 @@ PATCH  /api/tickets/{id}/            # Update ticket
 }
 ```
 
-## 🎨 **User Experience Flow**
+##  **User Experience Flow**
 ```
 1. User → New Ticket Form → AI Auto-classify
 2. Submit → Instant List Update + Stats Refresh  
 3. Filter/Search → Real-time Results
 4. Status Update → Live Dashboard Metrics
 ```
-
-
-
 
